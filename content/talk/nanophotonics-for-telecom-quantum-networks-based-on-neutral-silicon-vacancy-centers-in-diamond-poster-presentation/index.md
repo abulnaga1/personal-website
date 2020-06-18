@@ -9,7 +9,7 @@ abstract: We recently reported that the [stabilization of the neutral charge
   optical linewidths. We aim to integrate this new defect into a nanophotonic
   platform in order to create an efficient spin-photon interface.
   
-  [Download full poster](files/Spintech_Poster.pdf)
+  [Download full poster](/files/Spintech_Poster.pdf)
 location: Chicago, IL
 date: 2019-06-24
 date_end: 2019-06-27
