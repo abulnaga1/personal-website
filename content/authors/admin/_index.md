@@ -8,8 +8,7 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include nanophotonics, nonlinear optics, and quantum optics.
 interests:
   - Nanophotonics
   - Nonlinear Optics
@@ -20,7 +19,7 @@ social:
     link: "#contact"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/AbulnagaAlex
   #- icon: google-scholar
   #  icon_pack: ai
   #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -42,6 +41,6 @@ user_groups:
   - Visitors
 ---
 
-I am a 2nd year PhD student working under the supervision of Professor Nathalie de Leon in the department of Electrical Engineering at Princeton University.
-My research focuses on the design and fabrication of semiconductor nanophotonic devices for interfacing with quantum defects (colour centres) in diamond.
+I am a 2nd year PhD student working under the supervision of Professor [Nathalie de Leon](https://sites.google.com/view/deleonlab/home) in the department of Electrical Engineering at Princeton University.
+My research focuses on the design and fabrication of semiconductor nanophotonic devices for interfacing with quantum defects in diamond.
 With this platform I seek to explore key quantum communication network building block experiments such as spin-photon entanglement at telecom communication wavelengths.
