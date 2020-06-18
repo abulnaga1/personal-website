@@ -1,13 +1,15 @@
 ---
 title: Nanophotonics for telecom quantum networks based on neutral silicon
   vacancy centers in diamond (Poster Presentation)
-abstract: We recently reported that the stabilization of the neutral charge
-  state of silicon vacancy center, SiV0, exhibits spin-lattice relaxation times
+abstract: We recently reported that the [stabilization of the neutral charge
+  state of silicon vacancy center](https://science.sciencemag.org/content/361/6397/60.abstract), SiV0, exhibits spin-lattice relaxation times
   approaching 1 minute and coherence times approaching 1 second below 20K.
   Additionally, the SiV0 center has efficient, stable optical transitions with
   ~90% of its emission into the zero-phonon line and near–transform-limited
   optical linewidths. We aim to integrate this new defect into a nanophotonic
   platform in order to create an efficient spin-photon interface.
+  
+  {{% staticref "files/Spintech_Poster.pdf" %}}Download full poster{{% /staticref %}}
 location: Chicago, IL
 date: 2019-06-24T12:00:00.000Z
 date_end: 2019-06-27T21:00:00.000Z
