@@ -41,6 +41,14 @@ user_groups:
   - Visitors
 ---
 
-I am a 2nd year PhD student working under the supervision of Professor [Nathalie de Leon](https://sites.google.com/view/deleonlab/home) in the department of Electrical Engineering at Princeton University.
+I am a 2nd year PhD student working under the supervision of [Nathalie de Leon](https://sites.google.com/view/deleonlab/home) in the department of Electrical Engineering at Princeton University.
 My research focuses on the design and fabrication of semiconductor nanophotonic devices for interfacing with quantum defects in diamond.
 With this platform I seek to explore key quantum communication network building block experiments such as spin-photon entanglement at telecom communication wavelengths.
+
+I received my BASc in Electrical Engineering at the University of British Columbia in Vancouver, Canada. My thesis work was performed under the superposition of 
+[John Madden](https://www.ece.ubc.ca/faculty/john-madden) and investigated the fabrication of soft-electronics sensor for use in a smart bedsheet 
+for the prevention of pressure ulcers in bedridden hospital patients. During my undergraduate studies I also worked with 
+[Jorge Santiago-Aviles](https://www.seas.upenn.edu/directory/profile.php?ID=80) at the University of Pennsylvania on synthesizing biocompatible 
+piezoelectric nanofibres for use in a novel noninvasive ear surgery procedure. My indurstry experience included internships in 
+manufacturing engineering at [John Deere - Hitachi Speciality Products](https://deerehitachi.com/) and in hardware engineering 
+at [Arista Networks](https://www.arista.com/en/).
