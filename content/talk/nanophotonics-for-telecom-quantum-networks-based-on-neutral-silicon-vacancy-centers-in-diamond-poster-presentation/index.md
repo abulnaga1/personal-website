@@ -9,10 +9,10 @@ abstract: We recently reported that the [stabilization of the neutral charge
   optical linewidths. We aim to integrate this new defect into a nanophotonic
   platform in order to create an efficient spin-photon interface.
   
-  {{% staticref "files/Spintech_Poster.pdf" %}}Download full poster{{% /staticref %}}
+  [Download full poster]{{% staticref "files/Spintech_Poster.pdf" %}}Download full poster{{% /staticref %}}
 location: Chicago, IL
-date: 2019-06-24T12:00:00.000Z
-date_end: 2019-06-27T21:00:00.000Z
+date: 2019-06-24
+date_end: 2019-06-27
 all_day: false
 event: Tenth International School and Conference on Spintronics and Quantum
   Information Technology
