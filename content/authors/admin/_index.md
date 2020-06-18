@@ -7,8 +7,7 @@ authors:
   - admin
 title: Alexander Abulnaga
 role: Doctoral Candidate
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: This is a test
 interests:
   - Artificial Intelligence
   - Computational Linguistics
