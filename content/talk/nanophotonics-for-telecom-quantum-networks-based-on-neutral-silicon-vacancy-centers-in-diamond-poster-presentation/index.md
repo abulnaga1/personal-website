@@ -3,8 +3,8 @@ title: Nanophotonics for telecom quantum networks based on neutral silicon
   vacancy centers in diamond (Poster Presentation)
 abstract: test
 location: Chicago, IL
-date: 2019-06-24T16:00:45.386Z
-date_end: 2019-06-27T04:00:00.000Z
+date: 2019-06-24
+date_end: 2019-06-27
 all_day: false
 event: Tenth International School and Conference on Spintronics and Quantum
   Information Technology

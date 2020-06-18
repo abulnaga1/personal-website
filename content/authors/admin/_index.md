@@ -49,6 +49,8 @@ I received my BASc in Electrical Engineering at the University of British Columb
 [John Madden](https://www.ece.ubc.ca/faculty/john-madden) and investigated the fabrication of soft-electronics sensor for use in a smart bedsheet 
 for the prevention of pressure ulcers in bedridden hospital patients. During my undergraduate studies I also worked with 
 [Jorge Santiago-Aviles](https://www.seas.upenn.edu/directory/profile.php?ID=80) at the University of Pennsylvania on synthesizing biocompatible 
-piezoelectric nanofibres for use in a novel noninvasive ear surgery procedure. My indurstry experience included internships in 
+piezoelectric nanofibres for use in a novel noninvasive ear surgery procedure. 
+
+My indurstry experience included internships in 
 manufacturing engineering at [John Deere - Hitachi Speciality Products](https://deerehitachi.com/) and in hardware engineering 
 at [Arista Networks](https://www.arista.com/en/).
