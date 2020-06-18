@@ -1,12 +1,13 @@
 ---
+title: Alexander Abulnaga
+role: Doctoral Candidate
+avatar_filename: avatar.jpg
 organizations:
   - name: Stanford University
     url: ""
 superuser: true
 authors:
   - admin
-title: Alexander Abulnaga
-role: Doctoral Candidate
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
