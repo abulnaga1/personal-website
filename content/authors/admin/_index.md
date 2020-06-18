@@ -45,7 +45,7 @@ I am a 2nd year PhD student working under the supervision of [Nathalie de Leon](
 My research focuses on the design and fabrication of semiconductor nanophotonic devices for interfacing with quantum defects in diamond.
 With this platform I seek to explore key quantum communication network building block experiments such as spin-photon entanglement at telecom communication wavelengths.
 
-I received my BASc in Electrical Engineering at the University of British Columbia in Vancouver, Canada. My thesis work was performed under the superposition of 
+I received my BASc in Electrical Engineering at the University of British Columbia in Vancouver, Canada. My thesis work was performed under the supervision of 
 [John Madden](https://www.ece.ubc.ca/faculty/john-madden) and investigated the fabrication of soft-electronics sensor for use in a smart bedsheet 
 for the prevention of pressure ulcers in bedridden hospital patients. During my undergraduate studies I also worked with 
 [Jorge Santiago-Aviles](https://www.seas.upenn.edu/directory/profile.php?ID=80) at the University of Pennsylvania on synthesizing biocompatible 
