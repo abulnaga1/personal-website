@@ -16,6 +16,7 @@ event: Tenth International School and Conference on Spintronics and Quantum
   Information Technology
 event_url: https://voices.uchicago.edu/spintechx/
 publishDate: 2020-06-18T18:18:45.465Z
+slides: example
 draft: false
 featured: true
 image:
