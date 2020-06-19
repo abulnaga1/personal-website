@@ -49,4 +49,4 @@ I received my BASc in Electrical Engineering at the University of British Columb
 [John Madden](https://www.ece.ubc.ca/faculty/john-madden) and investigated the fabrication of soft-electronics sensors for use in a smart bedsheet. 
 During my undergraduate studies I also worked with 
 [Jorge Santiago-Aviles](https://www.seas.upenn.edu/directory/profile.php?ID=80) at the University of Pennsylvania on synthesizing biocompatible 
-piezoelectric nanofibres for use in a novel noninvasive ear surgery procedure through an NSF REU.
+piezoelectric nanofibres for use in a novel noninvasive ear surgery procedure.
