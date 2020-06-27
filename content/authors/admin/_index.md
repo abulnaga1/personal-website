@@ -19,7 +19,7 @@ social:
     link: "#contact"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/AbulnagaAlex
+    link: https://twitter.com/AlexAbulnaga
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/alex-abulnaga-947546114/
