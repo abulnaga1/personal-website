@@ -8,7 +8,7 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: My research interests include nanophotonics, nonlinear optics, and quantum optics.
+bio: Doctoral candidate, department of electrical engineering, Princeton University
 interests:
   - Nanophotonics
   - Nonlinear Optics
