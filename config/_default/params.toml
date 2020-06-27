@@ -112,7 +112,7 @@ address = {street = "41 Olden St", city = "Princeton", region = "NJ", postcode =
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "envelope", icon_pack = "fas", name = "alex dot abulnaga at princeton dot edu", link = "https://ee.princeton.edu/people/alexander-abulnaga"},
+  {icon = "envelope", icon_pack = "fas", name = "alex dot abulnaga at princeton dot edu", link = ""},
   {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/AlexAbulnaga"},
   {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/alex-abulnaga-947546114/"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},

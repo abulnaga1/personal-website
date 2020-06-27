@@ -16,8 +16,8 @@ height = "500"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "SiV0"
-  content = "I am center aligned :smile:"
+  title = "Integrated Photonics"
+  content = "Nanophotonics for Quantum Networks"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
