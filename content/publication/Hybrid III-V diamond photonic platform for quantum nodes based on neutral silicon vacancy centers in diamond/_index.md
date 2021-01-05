@@ -1,5 +1,5 @@
 ---
-title: test123
+title:
 
 # View.
 #   1 = List
@@ -9,7 +9,7 @@ title: test123
 view: 4
 
 # Optional header image (relative to `static/img/` folder).
-header: test123
-  caption: "test321"
+header:
+  caption: ""
   image: ""
 ---
