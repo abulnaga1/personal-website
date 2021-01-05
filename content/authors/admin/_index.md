@@ -39,7 +39,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a 2nd year PhD student working under the supervision of [Nathalie de Leon](https://sites.google.com/view/deleonlab/home) in the department of Electrical Engineering at Princeton University.
+I am a 3rd year PhD student working under the supervision of [Nathalie de Leon](https://sites.google.com/view/deleonlab/home) in the department of Electrical Engineering at Princeton University.
 My research focuses on the design and fabrication of semiconductor nanophotonic devices interfaced with quantum defects in diamond.
 With this platform I seek to explore key quantum communication network building block experiments such as spin-photon entanglement at telecom communication wavelengths.
 
