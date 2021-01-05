@@ -30,7 +30,7 @@ education:
   courses:
     - course: MA in Electrical Engineering
       institution: Princeton University
-      year: Expected September 2020
+      year: 2020
     - course: BASc in Electrical Engineering
       institution: The University of British Columbia
       year: 2018
