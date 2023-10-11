@@ -39,7 +39,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a 6th year PhD candidate working under the supervision of [Nathalie de Leon](https://sites.google.com/view/deleonlab/home) in the department of Electrical Engineering at Princeton University.
+I am a final-year PhD candidate working under the supervision of [Nathalie de Leon](https://sites.google.com/view/deleonlab/home) in the department of Electrical Engineering at Princeton University.
 My research focuses on the design and fabrication of hybrid III-V on Diamond nanophotonic devices for coupling to neutral silicon vacancy (SiV0) centres. Currently I am investigating the stabilization of bulk implanted SiV0 centres through chemical surface termination, co-doping, and strain engineering. In parallel, I am fabricating 1D GaAs photonic crystal cavities for purcell-enhanced coupling to SiV0, and AlGaAs-on-Diamond ring resonators for frequency conversion of SiV0 emission to the telecom band.
 
 I received my BASc in Electrical Engineering at the University of British Columbia in Vancouver, Canada. My thesis work was performed under the supervision of 
