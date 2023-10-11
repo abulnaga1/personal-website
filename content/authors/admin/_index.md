@@ -39,9 +39,8 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a 5th year PhD candidate working under the supervision of [Nathalie de Leon](https://sites.google.com/view/deleonlab/home) in the department of Electrical Engineering at Princeton University.
-My research focuses on the design and fabrication of semiconductor nanophotonic devices interfaced with quantum defects in diamond.
-With this platform I seek to explore key quantum communication network building block experiments such as spin-photon entanglement at telecom communication wavelengths.
+I am a 6th year PhD candidate working under the supervision of [Nathalie de Leon](https://sites.google.com/view/deleonlab/home) in the department of Electrical Engineering at Princeton University.
+My research focuses on the design and fabrication of hybrid III-V on Diamond nanophotonic devices for coupling to neutral silicon vacancy (SiV0) centres. Currently I am investigating the stabilization of bulk implanted SiV0 centres through chemical surface termination, co-doping, and strain engineering. In parallel, I am fabricating 1D GaAs photonic crystal cavities for purcell-enhanced coupling to SiV0, and AlGaAs-on-Diamond ring resonators for frequency conversion of SiV0 emission to the telecom band.
 
 I received my BASc in Electrical Engineering at the University of British Columbia in Vancouver, Canada. My thesis work was performed under the supervision of 
 [John Madden](https://www.ece.ubc.ca/faculty/john-madden) and investigated the fabrication of soft-electronics sensors for use in a smart bedsheet. 
