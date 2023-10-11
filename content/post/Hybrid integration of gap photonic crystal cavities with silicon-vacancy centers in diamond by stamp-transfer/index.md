@@ -1,5 +1,5 @@
 ---
-title: Our paper on hybrid integrate of SiV- centres with GaP PhCs has been published in Nanoletters!
+title: Our paper on hybrid integration of SiV- centres with GaP PhCs has been published in Nanoletters!
 date: 2023-05-10T00:49:12.117Z
 summary: ""
 draft: false
