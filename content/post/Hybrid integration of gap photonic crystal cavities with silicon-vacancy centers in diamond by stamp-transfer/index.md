@@ -1,7 +1,6 @@
 ---
-title: Our recent paper on hybrid III-V on diamond photonics for quantum nodes
-  is now up on the arXiv!
-date: 2021-01-05T00:49:12.117Z
+title: Our paper on hybrid integrate of SiV- centres with GaP PhCs has been published in Nanoletters!
+date: 2023-05-10T00:49:12.117Z
 summary: ""
 draft: false
 featured: true
@@ -10,6 +9,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Integrating atomic quantum memories based on color centers in diamond with on-chip photonic devices would enable entanglement distribution over long distances. However, efforts towards integration have been challenging because color centers can be highly sensitive to their environment, and their properties degrade in nanofabricated structures. Here, we describe a heterogeneously integrated, on-chip, III-V diamond platform designed for neutral silicon vacancy (SiV0) centers in diamond that circumvents the need for etching the diamond substrate. Through evanescent coupling to SiV0 centers near the surface of diamond, the platform will enable Purcell enhancement of SiV0 emission and efficient frequency conversion to the telecommunication C-band. The proposed structures can be realized with readily available fabrication techniques.
+Optically addressable solid-state defects are emerging as some of the most promising qubit platforms for quantum networks. Maximizing photon-defect interaction by nanophotonic cavity coupling is key to network efficiency. We demonstrate fabrication of gallium phosphide 1-D photonic crystal waveguide cavities on a silicon oxide carrier and subsequent integration with implanted silicon-vacancy (SiV) centers in diamond using a stamp-transfer technique. The stamping process avoids diamond etching and allows fine-tuning of the cavities prior to integration. After transfer to diamond, we measure cavity quality factors (Q) of up to 8900 and perform resonant excitation of single SiV centers coupled to these cavities. For a cavity with a Q of 4100, we observe a 3-fold lifetime reduction on-resonance. These results indicate promise for high photon-defect interaction in a platform which avoids fabrication of the quantum defect host crystal.
 
-[Read more on the arXiv](https://arxiv.org/abs/2012.15018)
+[Read more at Nanolett](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.2c04890)
