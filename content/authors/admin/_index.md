@@ -4,7 +4,7 @@ role: Research Scientist
 avatar_filename: avatar.jpg
 organizations:
   - name: Lightsynq Technologies
-    url: [https://www.lightsynq.com/](https://www.lightsynq.com/)
+    url: https://www.lightsynq.com
 superuser: true
 authors:
   - admin
