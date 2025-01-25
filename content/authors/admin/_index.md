@@ -1,14 +1,14 @@
 ---
 title: Alexander Abulnaga
-role: Doctoral Candidate
+role: Research Scientist
 avatar_filename: avatar.jpg
 organizations:
-  - name: Princeton University
-    url: https://ee.princeton.edu/
+  - name: Lightsynq Technologies
+    url: [https://www.lightsynq.com/](https://www.lightsynq.com/)
 superuser: true
 authors:
   - admin
-bio: Doctoral candidate, department of electrical engineering, Princeton University
+bio: Research Scientist, Lightsynq Technologies
 interests:
   - Nanophotonics
   - Nonlinear Optics
@@ -39,10 +39,10 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a final-year PhD candidate working under the supervision of [Nathalie de Leon](https://sites.google.com/view/deleonlab/home) in the department of Electrical Engineering at Princeton University.
-My research focuses on the design and fabrication of hybrid III-V on Diamond nanophotonic devices for coupling to neutral silicon vacancy (SiV0) centres. Currently I am investigating the stabilization of bulk implanted SiV0 centres through chemical surface termination, co-doping, and strain engineering. In parallel, I am fabricating 1D GaAs photonic crystal cavities for purcell-enhanced coupling to SiV0, and AlGaAs-on-Diamond ring resonators for frequency conversion of SiV0 emission to the telecom band.
+I am a research scientist at Lightsynq Technologies, working on the development of universal optical quantum interconnects that bridge the gap to large-scale quantum computers. I received my PhD from the department of Electrical Engineering at Princeton University, working under the supervision of Prof. [Nathalie de Leon](https://sites.google.com/view/deleonlab/home).
+My PhD research focused on the design and fabrication of hybrid III-V on Diamond nanophotonic devices for coupling to neutral silicon vacancy (SiV0) centres in diamond.
 
-I received my BASc in Electrical Engineering at the University of British Columbia in Vancouver, Canada. My thesis work was performed under the supervision of 
+I received my BASc in Electrical Engineering at the University of British Columbia in Vancouver, Canada. My thesis work was performed under the supervision of Prof.
 [John Madden](https://www.ece.ubc.ca/faculty/john-madden) and investigated the fabrication of soft-electronics sensors for use in a smart bedsheet. 
 During my undergraduate studies I also worked with 
 [Jorge Santiago-Aviles](https://www.seas.upenn.edu/directory/profile.php?ID=80) at the University of Pennsylvania through an NSF REU on synthesizing biocompatible 
